@@ -9,6 +9,5 @@ A relíquia perdida da rainha Cleópatra.
 
 >### Jogo RPG em texto para quem gosta de grandes aventuras e caça ao tesouro.
 
-
-![markdown](jogo_imagem.jpg)
+![jogo_imagem](https://user-images.githubusercontent.com/68605722/110132821-57730480-7daa-11eb-92ec-459065190207.jpg)
 
